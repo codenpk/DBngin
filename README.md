@@ -17,3 +17,9 @@ App screenshots:
 DBngin is completely free.
 
 TablePlus team.
+
+
+## TODO List:
+
+- Manager for Memcached
+- Manager for other caches
